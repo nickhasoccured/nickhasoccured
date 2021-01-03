@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nickhasoccured)
-<img align="right" width=128 height=128 src="https://i.imgur.com/6wFAHVp.png">
+<img align="right" width=128 height=128 src="https://i.imgur.com/juzP88k.png">
 <h1>Hello 👋</h1>
 
 * 🌱 I make [random stuff](https://github.com/nickhasoccured?tab=repositories) (mostly in JavaScript)
