@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=nickhasoccured)
-
 ## 👋 Hello, I'm Nick
 
 I make open-source software for the internet. My projects aim to be useful to me or (_hopefully_) useful to others. I’m currently using web-based languages, but I’m looking to branch out in the future!
