@@ -4,9 +4,9 @@ I make open-source software for the internet. My projects aim to be useful to me
 
 **Here are some of the projects I'm working on:**
 
--   [**Quoter**](https://github.com/nickhasoccured/quoter) - a Discord bot which stores quotes for servers & retrieves them on demand. It supports listing, (randomly) displaying, deleting, and editing quotes!
--   [**PPS Credentials**](https://github.com/nickhasoccured/pps-credentials) - a tool for PPS students to generate default credentials for their account.
--   [**AutoPublisher**](https://github.com/nickhasoccured/autopublisher) - a simple Discord bot that automatically publishes messages in announcement channels.
+-   [**Quoter**](https://github.com/nchristopher/quoter) - a Discord bot which stores quotes for servers & retrieves them on demand. It supports listing, (randomly) displaying, deleting, and editing quotes!
+-   [**PPS Credentials**](https://github.com/nchristopher/pps-credentials) - a tool for PPS students to generate default credentials for their account.
+-   [**AutoPublisher**](https://github.com/nchristopher/autopublisher) - a simple Discord bot that automatically publishes messages in announcement channels.
 
 If you'd like to contact me, I have some links on [my website](https://nchristopher.me). You can also email me directly at [nchristopher@tuta.io](mailto:nchristopher@tuta.io).
 
