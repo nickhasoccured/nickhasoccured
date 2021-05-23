@@ -11,3 +11,4 @@ I make open-source software for the internet. My projects aim to be useful to me
 If you'd like to contact me, I have some links on [my website](https://nchristopher.me). You can also email me directly at [nchristopher@tuta.io](mailto:nchristopher@tuta.io).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nchristopher&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nchristopher&layout=compact&theme=dark)
